@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623438127 source:d:\tester\tree\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<stdlib.h>
+	<cmath>
+
