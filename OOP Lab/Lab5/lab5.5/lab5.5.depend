@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1621616573 source:d:\tester\lab5\lab5.5\main.cpp
+	"Giasuc.h"
+	"De.h"
+	"Cuu.h"
+	"Bo.h"
+
+1621616573 source:d:\tester\lab5\lab5.5\src\bo.cpp
+	"Bo.h"
+
+1621616573 d:\tester\lab5\lab5.5\include\bo.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Giasuc.h"
+
+1621928254 d:\tester\lab5\lab5.5\include\giasuc.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1621616573 source:d:\tester\lab5\lab5.5\src\cuu.cpp
+	"Cuu.h"
+
+1621616573 d:\tester\lab5\lab5.5\include\cuu.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Giasuc.h"
+
+1621616573 source:d:\tester\lab5\lab5.5\src\de.cpp
+	"De.h"
+
+1621616573 d:\tester\lab5\lab5.5\include\de.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Giasuc.h"
+
+1621616806 source:d:\tester\lab5\lab5.5\src\giasuc.cpp
+	"Giasuc.h"
+

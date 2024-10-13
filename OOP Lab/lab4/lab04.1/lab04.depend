@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620578561 source:d:\tester\lab4\lab04\main.cpp
+	<iostream>
+
+1620659029 source:d:\tester\lab4\lab04.1\main.cpp
+	"Ctimespan.h"
+
+1620659527 d:\tester\lab4\lab04.1\include\ctimespan.h
+	<iostream>
+

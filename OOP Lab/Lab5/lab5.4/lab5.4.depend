@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1621495475 source:d:\tester\lab5.4\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+
+1621575417 source:d:\tester\lab5\lab5.4\src\hinhthang.cpp
+	"hinhThang.h"
+
+1621927955 d:\tester\lab5\lab5.4\include\hinhthang.h
+	<bits/stdc++.h>
+
+1621575417 source:d:\tester\lab5\lab5.4\src\hinhbinhhanh.cpp
+	"hinhBinhhanh.h"
+
+1621928338 d:\tester\lab5\lab5.4\include\hinhbinhhanh.h
+	<bits/stdc++.h>
+	<graphics.h>
+	"hinhThang.h"
+
+1621575417 source:d:\tester\lab5\lab5.4\src\hinhchunhat.cpp
+	"hinhChunhat.h"
+
+1621928338 d:\tester\lab5\lab5.4\include\hinhchunhat.h
+	<bits/stdc++.h>
+	<graphics.h>
+	"hinhBinhhanh.h"
+
+1621575417 source:d:\tester\lab5\lab5.4\src\hinhvuong.cpp
+	"hinhVuong.h"
+
+1621616982 d:\tester\lab5\lab5.4\include\hinhvuong.h
+	<bits/stdc++.h>
+	<graphics.h>
+	"hinhChunhat.h"
+
+1621617259 source:d:\tester\lab5\lab5.4\main.cpp
+	"hinhThang.h"
+	"hinhBinhhanh.h"
+	"hinhChunhat.h"
+	"hinhVuong.h"
+

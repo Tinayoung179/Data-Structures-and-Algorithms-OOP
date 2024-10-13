@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1621574111 source:d:\tester\lab5\lab5.3\main.cpp
+	"hinhtron.h"
+	"hinhelip.h"
+
+1621574451 source:d:\tester\lab5\lab5.3\src\hinhelip.cpp
+	"hinhelip.h"
+
+1621927317 d:\tester\lab5\lab5.3\include\hinhelip.h
+	<bits/stdc++.h>
+
+1621574500 d:\tester\lab5\lab5.3\include\hinhtron.h
+	<bits/stdc++.h>
+	"hinhelip.h"
+
+1621927523 source:d:\tester\lab5\lab5.3\src\hinhtron.cpp
+	"hinhtron.h"
+
