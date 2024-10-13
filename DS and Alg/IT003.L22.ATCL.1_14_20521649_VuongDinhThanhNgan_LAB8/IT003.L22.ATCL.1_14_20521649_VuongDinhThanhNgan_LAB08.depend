@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622879267 source:d:\tester\it003.l22.atcl.1_14_20521649_vuongdinhthanhngan_lab08\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
