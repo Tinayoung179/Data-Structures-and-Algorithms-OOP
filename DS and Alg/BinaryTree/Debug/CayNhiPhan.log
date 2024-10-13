@@ -1,0 +1,4 @@
+﻿  CayNhiPhan.cpp
+D:\Môn cũ\CTDL\CayNhiPhan\CayNhiPhan.cpp(171,8): warning C4101: 'p': unreferenced local variable
+D:\Môn cũ\CTDL\CayNhiPhan\CayNhiPhan.cpp(170,15): warning C4101: 'n': unreferenced local variable
+  CayNhiPhan.vcxproj -> D:\Môn cũ\CTDL\CayNhiPhan\Debug\CayNhiPhan.exe

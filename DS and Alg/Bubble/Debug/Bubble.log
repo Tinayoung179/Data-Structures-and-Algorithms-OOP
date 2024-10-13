@@ -1,0 +1,3 @@
+﻿  Bubble.cpp
+E:\Bubble\Bubble.cpp(79,15): warning C4101: 'i': unreferenced local variable
+  Bubble.vcxproj -> E:\Bubble\Debug\Bubble.exe
