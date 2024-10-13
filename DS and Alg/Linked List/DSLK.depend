@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623828566 source:d:\tester\dslk\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<stdlib.h>
+

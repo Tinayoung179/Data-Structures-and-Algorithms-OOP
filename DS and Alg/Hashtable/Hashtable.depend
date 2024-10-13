@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623599951 source:d:\tester\hashtable\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
