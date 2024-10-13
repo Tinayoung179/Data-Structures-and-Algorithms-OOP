@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622878816 source:d:\tester\demau\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+

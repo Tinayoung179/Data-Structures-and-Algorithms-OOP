@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623850890 source:d:\tester\demau3\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1623863373 source:d:\thanhngan\demau3\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
