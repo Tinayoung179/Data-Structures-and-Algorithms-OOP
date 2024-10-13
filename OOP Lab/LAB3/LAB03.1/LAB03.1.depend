@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618299775 source:d:\tester\lab03.1\main.cpp
+	"Point.h"
+
+1618902199 d:\tester\lab03.1\include\point.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1618299775 source:d:\tester\lab03.1\src\point.cpp
+	"Point.h"
+

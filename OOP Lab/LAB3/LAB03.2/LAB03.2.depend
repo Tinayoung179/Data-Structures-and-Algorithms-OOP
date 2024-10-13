@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1619230909 source:d:\tester\lab03.2\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+
+1619329016 source:d:\tester\20521649_vuongdinhthanhngan\lab03.2\src\tamgiac.cpp
+	"TamGiac.h"
+
+1619329016 d:\tester\20521649_vuongdinhthanhngan\lab03.2\include\tamgiac.h
+	<bits/stdc++.h>
+
+1619329036 source:d:\tester\lab3\lab03.2\main.cpp
+	"TamGiac.h"
+
+1619329016 d:\tester\lab3\lab03.2\include\tamgiac.h
+	<bits/stdc++.h>
+
+1619329016 source:d:\tester\lab3\lab03.2\src\tamgiac.cpp
+	"TamGiac.h"
+

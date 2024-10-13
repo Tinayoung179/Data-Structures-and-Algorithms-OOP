@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618068525 source:d:\tester\lap2.03\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+
+1618069806 source:d:\tester\lab02\lab2.03\main.cpp
+	"TestCandidate.h"
+
+1618069806 d:\tester\lab02\lab2.03\include\testcandidate.h
+	<bits/stdc++.h>
+	<string.h>
+
+1618069806 source:d:\tester\lab02\lab2.03\src\testcandidate.cpp
+	"TestCandidate.h"
+

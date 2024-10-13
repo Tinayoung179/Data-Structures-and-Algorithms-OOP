@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618069412 source:d:\tester\20521649_vuongdinhthanhngan\lab02.2\main.cpp
+	"ComplexNumbers.h"
+
+1618069412 d:\tester\20521649_vuongdinhthanhngan\lab02.2\include\complexnumbers.h
+	<bits/stdc++.h>
+
+1618069412 source:d:\tester\20521649_vuongdinhthanhngan\lab02.2\src\complexnumbers.cpp
+	"ComplexNumbers.h"
+
