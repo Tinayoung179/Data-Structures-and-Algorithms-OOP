@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616339737 source:d:\tester\fhiuk\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
