@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1622621426 source:d:\tester\lab6.2\main.cpp
+	"DaGiac.h"
+	"TamGiac.h"
+	"TuGiac.h"
+
+1622621426 d:\tester\lab6.2\include\dagiac.h
+	<iostream>
+
+1622620564 d:\tester\lab6.2\include\tamgiac.h
+	<iostream>
+	"DaGiac.h"
+
+1622620967 d:\tester\lab6.2\include\tugiac.h
+	<iostream>
+	"DaGiac.h"
+
+1622621984 source:d:\tester\lab6.2\src\dagiac.cpp
+	"DaGiac.h"
+
+1622621629 source:d:\tester\lab6.2\src\tamgiac.cpp
+	"TamGiac.h"
+	"DaGiac.h"
+
+1622621003 source:d:\tester\lab6.2\src\tugiac.cpp
+	"TuGiac.h"
+	"DaGiac.h"
+

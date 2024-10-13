@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1624117251 source:d:\tester\oop.2\main.cpp
+	"QuanLy.h"
+	"GiangVien.h"
+	"NhanVien.h"
+
+1624115441 d:\tester\oop.2\include\quanly.h
+	<iostream>
+	<string>
+	<cmath>
+
+1624115905 source:d:\tester\oop.2\src\quanly.cpp
+	"QuanLy.h"
+
+1624117063 source:d:\tester\oop.2\src\giangvien.cpp
+	"GiangVien.h"
+
+1624117063 d:\tester\oop.2\include\giangvien.h
+	<iostream>
+	<string>
+	<cmath>
+	"QuanLy.h"
+
+1624116213 source:d:\tester\oop.2\src\nhanvien.cpp
+	"NhanVien.h"
+
+1624116073 d:\tester\oop.2\include\nhanvien.h
+	<iostream>
+	<string>
+	<cmath>
+	"QuanLy.h"
+
