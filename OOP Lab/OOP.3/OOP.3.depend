@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1624173785 source:d:\tester\oop.3\main.cpp
+	<iostream>
+
+1624207563 source:d:\tester\oop.3\src\banle.cpp
+	"BanLe.h"
+
+1624207563 d:\tester\oop.3\include\banle.h
+	<iostream>
+	<string>
+	<cmath>
+	"DonHang.h"
+
+1624204872 d:\tester\oop.3\include\donhang.h
+	<iostream>
+	<string>
+	<cmath>
+
+1624210109 source:d:\tester\oop.3\src\donhang.cpp
+	"DonHang.h"
+
+1624208182 source:d:\tester\oop.3\src\bansi.cpp
+	"BanSi.h"
+
+1624208368 d:\tester\oop.3\include\bansi.h
+	<iostream>
+	<string>
+	<cmath>
+	"DonHang.h"
+
